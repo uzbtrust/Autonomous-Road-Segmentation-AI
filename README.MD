@@ -39,7 +39,7 @@ This project showcases a high-speed **Semantic Segmentation** system built for a
       <h3>3. Real-Time Video Power</h3>
       <p>The system's peak performance during live video stream processing.</p>
       <div style="background: #101010; border-radius: 10px; padding: 20px;">
-        <img src="2025-12-27 00.19.46.jpg" width="500" alt="Video FPS Performance"/>
+        <img src="image_cd63a1.jpg" width="500" alt="Video FPS Performance"/>
         <br><h2 style="color: #00ff80;">🚀 1163.3 FPS | 0.9ms Latency</h2>
       </div>
     </td>
@@ -48,10 +48,21 @@ This project showcases a high-speed **Semantic Segmentation** system built for a
 
 ---
 
+## 🖥️ Interactive Dashboard
+Below is the live preview of the autonomous vision control center. It allows for seamless image and video processing.
+
+<p align="center">
+  <img src="image_cd6ea1.jpg" width="900" alt="Streamlit Website Preview"/>
+</p>
+
+---
+
 ## 📂 Project Structure
-<div align="center">
-  <img src="image_cd63a1.png" width="400" alt="File Structure"/>
-</div>
+The repository is organized as follows to ensure scalability and ease of use:
+
+<p align="center">
+  <img src="image_cd6a61.jpg" width="400" alt="File Structure"/>
+</p>
 
 ---
 
