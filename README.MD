@@ -52,7 +52,7 @@ This project showcases a high-speed **Semantic Segmentation** system built for a
 Below is the live preview of the autonomous vision control center. It allows for seamless image and video processing.
 
 <p align="center">
-  <img src="image_cd6ea1.jpg" width="900" alt="Streamlit Website Preview"/>
+  <img src="image_6ea1.jpg" width="900" alt="Streamlit Website Preview"/>
 </p>
 
 ---
@@ -61,7 +61,7 @@ Below is the live preview of the autonomous vision control center. It allows for
 The repository is organized as follows to ensure scalability and ease of use:
 
 <p align="center">
-  <img src="image_cd6a61.jpg" width="400" alt="File Structure"/>
+  <img src="image_6a61.jpg" width="400" alt="File Structure"/>
 </p>
 
 ---
